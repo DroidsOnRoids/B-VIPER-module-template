@@ -4,6 +4,7 @@ Template for creating B-VIPER module with cookiecutter
 
 ## Usage
 1. Instal [cookiecutter](https://github.com/audreyr/cookiecutter) :
+
     ```$ brew install cookiecutter```
 2. Move to modules directory in your project
 3. For the first time run:
