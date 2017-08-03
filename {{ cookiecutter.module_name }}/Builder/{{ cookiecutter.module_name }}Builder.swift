@@ -1,6 +1,6 @@
 //
 //  {{ cookiecutter.module_name }}Builder.swift
-//  {{ cookiecutter.project_display_name }}
+//  {{ cookiecutter.project_name }}
 //
 //  Created by DroidsOnRoids on 02/08/2017.
 //  Copyright © 2017 DroidsOnRoids. All rights reserved.
