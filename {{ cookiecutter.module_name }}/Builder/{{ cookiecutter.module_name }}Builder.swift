@@ -8,7 +8,9 @@
 
 import UIKit
 
-protocol {{ cookiecutter.module_name }}BuilderProtocol {}
+protocol {{ cookiecutter.module_name }}BuilderProtocol {
+     func build{{ cookiecutter.module_name }}Module() -> UIViewController
+}
 
 final class {{ cookiecutter.module_name }}Builder: {{ cookiecutter.module_name }}BuilderProtocol {
     
