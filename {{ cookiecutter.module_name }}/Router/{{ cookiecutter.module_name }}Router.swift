@@ -2,8 +2,8 @@
 //  {{ cookiecutter.module_name }}Router.swift
 //  {{ cookiecutter.project_name }}
 //
-//  Created by DroidsOnRoids on 02/08/2017.
-//  Copyright © 2017 DroidsOnRoids. All rights reserved.
+//  Created by {{ cookiecutter.owner }} on {% now 'local', '%d/%m/%Y' %}.
+//  Copyright © {% now 'local', '%Y' %} {{ cookiecutter.company }}. All rights reserved.
 //
 
 import UIKit
