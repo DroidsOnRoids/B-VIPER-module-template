@@ -21,5 +21,7 @@ Template for creating B-VIPER module with cookiecutter
     ```
     module_name [ModuleName]: Test
     module_var_name [moduleName]: test
+    owner: [Owner Name]: John Doe
+    company [Company Name]: Acme Corp.
     project_name [Project name]: Test-iOS
     ```

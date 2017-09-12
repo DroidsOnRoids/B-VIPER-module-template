@@ -1,6 +1,7 @@
-
 {
     "module_name": "ModuleName",
     "module_var_name": "moduleName",
+    "owner": "Owner Name",
+    "company": "Company Name",
     "project_name": "Project name"
 }
